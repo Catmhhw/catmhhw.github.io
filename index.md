@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel='stylesheet' href='./main.css'>
+        <link href='./main.css' rel='stylesheet' >
     </head>
     <body>
         <h1> Catherine's Page</h1>
