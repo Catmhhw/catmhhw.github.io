@@ -4,8 +4,8 @@
     </head>
     <body>
         <ul>
-            <li> Home</li>
-            <li> Menu</li>
+            <li><a  href="https://catmhhw.github.io/"> Home</a></li>
+            <li><a href="#"> Menu</a></li>
             <li> Location</li>
             <li> Order Online</li>
         </ul>
