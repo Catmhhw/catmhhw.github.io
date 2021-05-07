@@ -26,7 +26,7 @@ img {
     width: 350px;
     height: auto;
 }
-a {
+a:link {
     color: rgb(32, 32, 32)
 }
 a:hover {
